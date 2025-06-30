@@ -56,6 +56,7 @@
     "@types/react-dom": "^19.1.6",
     "@types/supertest": "^6.0.2",
     "babel-register": "^6.26.0",
+    "concurrently": "^9.2.0",
     "connect-livereload": "^0.6.1",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",

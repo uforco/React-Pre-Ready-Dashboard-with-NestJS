@@ -36,17 +36,20 @@ project-root/
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/uforco/React-Pre-Ready-Dashboard-with-NestJS.git
    cd your-repo
    ```
 
 2. **Install dependencies**:
+
    ```bash
    pnpm install
    ```
 
 3. **Run in development mode**:
+
    ```bash
    pnpm run dev
    ```
@@ -67,7 +70,7 @@ npx tailwindcss init -p
 ### 📝 Create Tailwind Input File: `src/views/styles/input.css`
 
 ```css
-@import "tailwindcss";
+@import 'tailwindcss';
 ```
 
 ### ⚙️ Update `tailwind.config.js` (Optional)
@@ -218,6 +221,7 @@ pnpm add -D ts-node-dev concurrently
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
+
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/your-feature`).
 3. Commit your changes (`git commit -m 'Add your feature'`).
@@ -235,7 +239,8 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 ## 📚 Need More?
 
 Want a **GitHub repository** or a **ZIP export** of this setup? Let me know, and I can guide you through creating one! 🚀
-```
+
+````
 
 ### Steps to Create and Download the `readme.md` File
 
@@ -288,5 +293,6 @@ Want a **GitHub repository** or a **ZIP export** of this setup? Let me know, and
   ```markdown
   MIT License
 
-  ```
-  Copyright (c) `[2025]` `[MD SHARIF]`
+````
+
+Copyright (c) `[2025]` `[MD SHARIF]`
